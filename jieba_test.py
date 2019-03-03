@@ -15,7 +15,7 @@ def getKeyword():
 	#添加自定义stopword
 	jieba.analyse.set_stop_words('mystopword.txt')
 	#对于每一个文件（每一个职位）
-	for one_ls in ls[0:1]:
+	for one_ls in ls:
 		one_keyword = {}
 		#加载数据
 		with open(path+one_ls) as data:
@@ -66,7 +66,7 @@ def stopword():
 	keywordset = list(getKeyword())
 	getStopWord = []
 	print('设置为停止词，1为是，任意字符为否')
-	for key in keywordset[0:5]:
+	for key in keywordset:
 		print('关键词：【'+key+'】')
 		answer = input()
 		if answer=='1':

@@ -1,0 +1,47 @@
+Android:android,java,app,sdk,沟通能力,责任心,数据结构,c++,ui,算法,输入法,多线程,控件,维护,调试,解决问题,http,ios,协作,架构设计
+
+APP设计师:视觉,平面设计,ui,美术,沟通能力,photoshop,手绘,ai,ps,app,动画,责任心,合作,表达能力,审美,协助,3d,flash,illustrator,原型
+
+C++:c++,linux,算法,ishumei,数据结构,数据库,html,tcp,https,沟通能力,多线程,解决问题,python,责任心,软件工程,操作系统,shell,合作,架构设计,windows
+
+Flash设计师:视觉,平面设计,ui,美术,photoshop,沟通能力,手绘,ai,ps,动画,审美,合作,协助,责任心,3d,illustrator,表达能力,flash,美术设计,产品设计
+
+HTML5:web,javascript,html5,js,前端开发,css,css3,协作,h5,vue,html,gulp,ui,reactjs,开发技术,ajax,php,sass,less,json
+
+Java:java,spring,数据库,mysql,sql,linux,web,oracle,mybatis,沟通能力,html,javascript,责任心,redis,数据结构,多线程,j2ee,jquery,hibernate,维护
+
+Python:python,linux,java,算法,c++,编程语言,数据库,php,shell,web,运维,沟通能力,数据结构,mysql,html,数据分析,自动化,脚本语言,sql,hadoop
+
+SQL:sql,数据库,java,oracle,linux,mysql,web,python,沟通能力,数据分析,html,server,spring,责任心,维护,ishumei,合作,算法,net,javascript
+
+SQLServer:数据库,sql,server,oracle,沟通能力,软件平台,触发器,数据库系统,数据处理,管理系统,经验丰富,解决方案,客户服务,撰写,协助
+
+UI设计师:视觉,沟通能力,ui,课程,教育,销售,java,协助,web,合作,规划,app,linux,维护,责任心,android,算法,photoshop,平面设计,c++
+
+交互设计师:ui,原型,axure,沟通能力,photoshop,视觉,visio,流程图,表达能力,合作,设计方案,ai,心理学,人机交互,美术,产品设计,协助,抗压,迭代,协作
+
+剧情设计:视觉,平面设计,ui,美术,沟通能力,photoshop,手绘,ai,ps,动画,合作,责任心,协助,审美,3d,illustrator,表达能力,flash,产品设计,美术设计
+
+单片机:单片机,调试,传感器,原理图,电路设计,无线通讯,stm32,zigbee,433m,网关,总体方案,标准化,协助,维护
+
+小游戏开发:小游戏,cocos,creator,引擎,android,手游,责任心,用户群,app,抗压,合作,facebook,egret,layaair,js,cto,java,技术骨 干,手机游戏,踏实
+
+广告制作:广告投放,数据分析,facebook,文案,撰写,逻辑思维,广告创意,office,抗压,合作,协作,沟通能力,adwords,excel,google,协调,责任心,维护,ae,积极主动
+
+广告设计师:ae,广告创意,视觉,美术,ps,动画,平面广告,photoshop,ai,广告投放,审美,协作,平面设计,格式文件,竞争力,色彩感,创作, 分类整理,时间,杠铃
+
+新媒体运营:策划,文案,数据分析,沟通能力,执行力,协助,责任心,抗压,合作,app,维护,课程,线上,撰写,协作,协调,社交,逻辑思维,对接,挖掘
+
+深度学习:沟通能力,责任心,课程,维护,协助,抗压,合作,算法,销售,java,积极主动,教学,python,app,表达能力,c++,逻辑思维,规划,协 调,数据结构
+
+游戏策划:策划,美术,逻辑思维,手游,unix,linux,二次元,c++,责任心,沟通能力,java,撰写,表达能力,文案,数学,协作,抗压,c#,架构设 计,手机游戏
+
+电路设计:电路设计,pcb,电路,调试,fpga,仿真,原理图,印制电路,数字电路,传感器,责任心,自动化,单片机,图像处理,销售,协助,通信, 解决方案,cadence,dac
+
+网页设计师:沟通能力,教育,销售,课程,协助,java,视觉,平面设计,责任心,合作,web,linux,规划,维护,app,数据库,表达能力,ui,ai,c++
+
+视觉设计师:视觉,ui,手绘,平面设计,ai,界面设计,ps,sketch,美术,沟通能力,photoshop,app,产品设计,审美,协助,web,理解能力,创意 设计,设计规范,合作
+
+所有职位：java,沟通能力,python,linux,视觉,数据库,责任心,算法,sql,c++,合作,web,协助,维护,android,数据分析,app,平面设计,ui,mysql
+
+所有关键词：流程图,html5,无线通讯,表达能力,社交,软件工程,数据处理,c#,脚本语言,视觉,界面设计,app,自动化,迭代,平面广告,android,多线程,印制电路,sdk,redis,总体方案,pcb,创意设计,单片机,ps,spring,踏实,google,zigbee,杠铃,抗压,433m,css,python,电路,动画,axure,vue,用户群,审美,规划,hadoop,合作,线上,ios,less,触发器,原型,竞争力,策划,课程,layaair,挖掘,cto,通信,撰写,广告投放,传感器,开发技术,软件平台,h5,sketch,oracle,协调,时间,设计方案,数据库,前端开发,sass,经验丰富,解决方案,reactjs,photoshop,维护,html,java,http,调试,沟通能力,数字电路,手机游戏,ae,操作系统,产品设计,执行力,控件,教学,二次元,手绘,mybatis,windows,fpga,web,引擎,教育,jquery,客户服务,手游,php,ajax,文案,美术,mysql,ishumei,cadence,色彩感,架构设计,运维,创作,标准化,心理学,cocos,net,技术骨干,c++,广告创意,对接,格式文件,tcp,https,sql,unix,shell,算法,电路设计,js,ai,设计规范,责任心,egret,visio,gulp,积极主动,3d,人机交互,逻辑思维,javascript,理解能力,协作,数据分析,json,小游戏,facebook,美术设计,flash,adwords,stm32,creator,hibernate,数学,协助,linux,平面设计,网关,输入法,illustrator,excel,office,销售,解决问题,管理系统,仿真,数据库系统,css3,server,j2ee,dac,ui,编程语言,图像处理,原理图,分类整理,数据结构
