@@ -80,6 +80,18 @@ def stopword():
 			stop_file.write('\n'+'\n'.join(getStopWord))
 	else:
 		pass
-
+		
 #stopword()
-
+path = 'data/'
+#获取该路径下所有文件的文件名
+ls = os.listdir(path)
+allnumber = 0
+for one_ls in ls:
+	one_keyword = {}
+	#加载数据
+	with open(path+one_ls) as data:
+		alldata = json.load(data)
+	print(one_ls)
+	print(len(alldata))
+	allnumber = allnumber + len(alldata)
+print(allnumber)
